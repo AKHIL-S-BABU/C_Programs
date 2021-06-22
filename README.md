@@ -2,7 +2,8 @@
 
 Kick-off with C<br>
 
-
+Akhil S Babu<br>
+Kannur, Kerala, India<br>
 
 <h2>Sorting Agorithms</h2>
 
