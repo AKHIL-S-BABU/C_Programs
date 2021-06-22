@@ -1,7 +1,7 @@
 ## C_Programs
 
 Kick-off with C<br>
-This is my collection of **C programs**
+
 
 
 <h2>Sorting Agorithms</h2>
