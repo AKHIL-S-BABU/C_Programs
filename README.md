@@ -3,5 +3,5 @@
 Kick-off with C
 This is my collection of **C programs**
 
-######<h6>**Sorting Agorithms**</h6>
+<h2>**Sorting Agorithms**</h2>
 
